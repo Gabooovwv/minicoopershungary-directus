@@ -1,4 +1,4 @@
-FROM directus/directus:11.8.0
+FROM directus/directus:11.10.0
 
 USER root
 RUN npm install -g corepack
